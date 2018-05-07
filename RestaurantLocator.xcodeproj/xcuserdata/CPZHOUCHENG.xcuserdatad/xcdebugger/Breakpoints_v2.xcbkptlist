@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RestaurantLocator/restaurantViewController.swift"
+            timestampString = "526889411.914258"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "order(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RestaurantLocator/detailViewController.swift"
+            timestampString = "526890681.324233"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "detailViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RestaurantLocator/categoryViewController.swift"
+            timestampString = "526916566.698916"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "224"
+            endingLineNumber = "224"
+            landmarkName = "categoryViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RestaurantLocator/detailViewController.swift"
+            timestampString = "526890681.324233"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RestaurantLocator/restaurantViewController.swift"
+            timestampString = "526886943.720898"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "restaurantViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RestaurantLocator.restaurantViewController.__deallocating_deinit"
+                  moduleName = "RestaurantLocator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/CPZHOUCHENG/Desktop/5140Projects/AdvancedAssignOne/1/RestaurantLocator/RestaurantLocator/restaurantViewController.swift"
+                  timestampString = "526886943.725768"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RestaurantLocator.restaurantViewController.init (style : __C.UITableViewStyle) -&gt; RestaurantLocator.restaurantViewController"
+                  moduleName = "RestaurantLocator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/CPZHOUCHENG/Desktop/5140Projects/AdvancedAssignOne/1/RestaurantLocator/RestaurantLocator/restaurantViewController.swift"
+                  timestampString = "526886943.728919"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RestaurantLocator.restaurantViewController.__allocating_init (style : __C.UITableViewStyle) -&gt; RestaurantLocator.restaurantViewController"
+                  moduleName = "RestaurantLocator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/CPZHOUCHENG/Desktop/5140Projects/AdvancedAssignOne/1/RestaurantLocator/RestaurantLocator/restaurantViewController.swift"
+                  timestampString = "526886943.731036"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RestaurantLocator.restaurantViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; RestaurantLocator.restaurantViewController"
+                  moduleName = "RestaurantLocator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/CPZHOUCHENG/Desktop/5140Projects/AdvancedAssignOne/1/RestaurantLocator/RestaurantLocator/restaurantViewController.swift"
+                  timestampString = "526886943.732476"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RestaurantLocator.restaurantViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; RestaurantLocator.restaurantViewController"
+                  moduleName = "RestaurantLocator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/CPZHOUCHENG/Desktop/5140Projects/AdvancedAssignOne/1/RestaurantLocator/RestaurantLocator/restaurantViewController.swift"
+                  timestampString = "526886943.7339"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RestaurantLocator.restaurantViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;RestaurantLocator.restaurantViewController&gt;"
+                  moduleName = "RestaurantLocator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/CPZHOUCHENG/Desktop/5140Projects/AdvancedAssignOne/1/RestaurantLocator/RestaurantLocator/restaurantViewController.swift"
+                  timestampString = "526886943.735448"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RestaurantLocator.restaurantViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;RestaurantLocator.restaurantViewController&gt;"
+                  moduleName = "RestaurantLocator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/CPZHOUCHENG/Desktop/5140Projects/AdvancedAssignOne/1/RestaurantLocator/RestaurantLocator/restaurantViewController.swift"
+                  timestampString = "526886943.736775"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "63">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RestaurantLocator/detailViewController.swift"
+            timestampString = "526890331.378313"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "detailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RestaurantLocator.detailViewController.restaurant.getter : Swift.Optional&lt;RestaurantLocator.Restaurant&gt;"
+                  moduleName = "RestaurantLocator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/CPZHOUCHENG/Desktop/5140Projects/assignment1%20-%2026455862%202/RestaurantLocator/RestaurantLocator/detailViewController.swift"
+                  timestampString = "526916567.804695"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RestaurantLocator.detailViewController.restaurant.setter : Swift.Optional&lt;RestaurantLocator.Restaurant&gt;"
+                  moduleName = "RestaurantLocator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/CPZHOUCHENG/Desktop/5140Projects/assignment1%20-%2026455862%202/RestaurantLocator/RestaurantLocator/detailViewController.swift"
+                  timestampString = "526916567.807925"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RestaurantLocator.detailViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; RestaurantLocator.detailViewController"
+                  moduleName = "RestaurantLocator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/CPZHOUCHENG/Desktop/5140Projects/assignment1%20-%2026455862%202/RestaurantLocator/RestaurantLocator/detailViewController.swift"
+                  timestampString = "526916567.811006"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RestaurantLocator.detailViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;RestaurantLocator.detailViewController&gt;"
+                  moduleName = "RestaurantLocator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/CPZHOUCHENG/Desktop/5140Projects/assignment1%20-%2026455862%202/RestaurantLocator/RestaurantLocator/detailViewController.swift"
+                  timestampString = "526916567.813533"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "77">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RestaurantLocator/detailViewController.swift"
+            timestampString = "526890681.324233"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

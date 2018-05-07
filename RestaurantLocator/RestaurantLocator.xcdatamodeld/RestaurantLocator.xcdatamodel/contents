@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="12141" systemVersion="16G29" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Category" representedClassName="Category" syncable="YES">
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="hasrestaurant" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Restaurant" inverseName="belongcategory" inverseEntity="Restaurant" syncable="YES"/>
+    </entity>
+    <entity name="Restaurant" representedClassName="Restaurant" syncable="YES">
+        <attribute name="adddate" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="category" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lati" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="location" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="longi" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="notice" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="rating" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <relationship name="belongcategory" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Category" inverseName="hasrestaurant" inverseEntity="Category" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Category" positionX="-63" positionY="-18" width="128" height="73"/>
+        <element name="Restaurant" positionX="223" positionY="-9" width="128" height="180"/>
+    </elements>
+</model>
